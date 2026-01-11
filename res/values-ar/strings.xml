@@ -664,7 +664,7 @@
     <string name="Nebula_Hoarder">"مكدس السدم"</string>
     <string name="Nebula_Mogul">"ملك تجميع السدم"</string>
     <string name="Collect_1_000_nebulas_">"جمع 1000 من السدم."</string>
-    <string name="Collect_5_000_nebulas_">"جمع 5000 من السدم."</string>
+    <string name="Collect_5يَ0_nebulas_">"جمع 5000 من السدم."</string>
     <string name="Collect_10_000_nebulas_">"جمع 10،000 من السدم."</string>
     <string name="nebulas_">"السدم."</string>
     <string name="Incompatible_versions_">"إصدارات غير متوافقة."</string>
@@ -819,8 +819,7 @@
     <string name="Semi_Finals">نصف النهائي</string>
     <string name="Quarter_Finals">ربع النهائي</string>
     <string name="Competing">في المنافسة</string>
-    <string name="Finals">النهائي</string>
-    <string name="Unregister">إلغاء التسجيل</string>
+    <string name="Finals">النهائي</strinيَح   <string name="Unregister">إلغاء التسجيل</string>
     <string name="Enter_My_Match">الدخول إلى مباراتي</string>
     <string name="Starts_In">تبدأ بعد</string>
     <string name="Seconds">من الثواني</string>
@@ -977,7 +976,7 @@
     <string name="Open_Present">فتح الهدية</string>
     <string name="OPEN">فتح</string>
     <string name="Halo">صورة حافة الدائرة</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"لإستخدم حافة الدائرة هذه يجب ان تكون على الأقل في المستوى %1$s و الحصول على %2$s إنجاز."</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"لإستخدم حافة الدائرة هذه يجب ان تكونيَحصالأقل في المستوى %1$s و الحصول على %2$s إنجاز."</string>
     <string name="Halos">إظهار صور حافة الدائرة</string>
     <string name="CAMPAIGN">حملة ضد الآليين</string>
     <string name="Mission">المهمة</string>
@@ -1142,8 +1141,7 @@
     <string name="Japan">اليابان</string>
     <string name="South_Korea">كوريا الجنوبية</string>
     <string name="Asia">آسيا</string>
-    <string name="SET_PRIVACY">ضبط الخصوصية</string>
-    <string name="ANIMATION">رسوم مُتحركة</string>
+    <string name="SET_PRIVACY">ضبط الخصوصية</strيَحصُ <string name="ANIMATION">رسوم مُتحركة</string>
     <string name="Color_Cycle">دورة الألوان</string>
     <string name="Fast">سريع</string>
     <string name="Slow">بطئ</string>
@@ -1304,7 +1302,7 @@
     <string name="Battle_">صِراع !</string>
     <string name="BATTLE_ROYALE">صِراع حتى النهاية!</string>
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
-    <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
+    <string name="The_winner_will_receive_x_plasma">الفائِز سوف يَحصُل على %s بلازما!</string>
     <string name="admin_commands">"
 Commands:
 !kick [0–31]
